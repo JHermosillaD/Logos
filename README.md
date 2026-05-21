@@ -6,6 +6,7 @@ All files in this repository are available for non-commercial use.
   <img src="uv.png" height="50" title="UV Logo">
   <img src="iiia_uv.png" height="50" title="IIIA UV Logo">
   <img src="lab_uv.png" height="50" title="Lab UV Logo">
+  <img src="python.png" height="50" title="Python Logo">
   <img src="opencv.png" height="50" title="OpenCV Logo">
   <img src="mediapipe.png" height="50" title="MediaPipe Logo">
 </p>
